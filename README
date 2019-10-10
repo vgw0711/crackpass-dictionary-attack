@@ -3,7 +3,10 @@ Setup Instructions :
 1. Tested on Python2.7 (Recommended Python2.7)
 2. Execution Command - python cracker.py <wordlist_location> <unshadowed_password_file>
 
-Note: This script will work with the wordlist format that matches with /usr/share/dict/words. (Two wordlists are attached in the folder for testing purposes. words and linuxwords)
+Wordlists attached : words, linuxwords
+Unshadowed Password file : lin_passwd_lab3.txt
+
+Note: This script will work with the wordlist format that matches with /usr/share/dict/words.
 Also, this script is specifically designed for unshadowed linux password files.
 
 Additional Features:
